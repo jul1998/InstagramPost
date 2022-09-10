@@ -1,0 +1,53 @@
+.container{
+    align-content: center;
+    margin-left: 200px;
+}
+
+.header{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between
+}
+
+.title{
+    line-height: 0.5px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+
+img{
+    height: 50%;
+    width: 50%;
+    align-content: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+.menu{
+    margin-right: 210px;
+}
+
+
+.footer{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    margin-left: 5px;
+
+}
+
+.text{
+    width: 210px;
+    font-size: 10px;
+    padding-top: 10px;
+}
+
+.book{
+    padding-left:145px;
+}
+
+engagement{
+    
+}
